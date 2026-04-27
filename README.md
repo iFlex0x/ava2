@@ -68,6 +68,7 @@ This name will also be your computer's name. If you chose "Ava" the path to your
 - Enter your password
 - Fill out the security questions
 - In the "Choose privacy settings for your device" menu, uncheck every single option
+
 Windows will load for a minute and then show your desktop. Congratulations! We're in Windows 11
 
 (section about debloating tools wip)
