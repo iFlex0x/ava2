@@ -21,6 +21,8 @@ Each chapter has step-by-step instructions on how to install Windows 11. First b
 - ***DO NOT CONNECT TO THE INTERNET UNTIL AFTER YOU'VE MADE AN ACCOUNT***
 - ***DO NOT GIVE ANY PERSONAL INFORMATION OR DATA TO MICROSOFT***
 
+The best place to get a copy of Windows 11 is from [massgrave.dev](https://massgrave.dev/windows_11_links) which hosts older versions of Windows 11 `.iso` image files and can be verified with [hash-based verification](https://en.wikipedia.org/wiki/File_verification); nerd-speak for "you can compare this file to the original and see no changes have occurred."
+
 Alright cool, let's get started!
 ### 1. Flashing Windows 11 to USB drive
 - Download *Windows 11*
@@ -59,3 +61,7 @@ This name will also be your computer's name. If you chose "Ava" the path to your
 - Fill out the security questions
 - In the "Choose privacy settings for your device" menu, uncheck every single option
 Windows will load for a minute and then show your desktop. Congratulations! We're in Windows 11
+
+### Windows 11 post-install tweaks
+
+This part is gonna be a bit messy
