@@ -15,7 +15,7 @@ To avoid this entirely we're just not going to log in with a Microsoft account. 
 
 Each chapter has step-by-step instructions on how to install Windows 11. First by downloading a Windows 11 image, flashing it to a USB, and running the installer on your computer.
 
-#### Before we get started, remember the following:
+*Before we get started, remember the following:*
 
 - ***DO NOT SIGN IN WITH A MICROSOFT ACCOUNT***
 - ***DO NOT CONNECT TO THE INTERNET UNTIL AFTER YOU'VE MADE AN ACCOUNT***
