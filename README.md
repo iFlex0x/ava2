@@ -1,4 +1,3 @@
-This is gonna be hella confusing
 ### Intro
 Hi! This is a guide on how to install and setup **Windows 11** on your new computer. I'm handwriting this guide for you because Windows is a bit of a problem-child and we'll need to take serious precautions to get the 'best' experience out of it.
 
@@ -60,5 +59,3 @@ This name will also be your computer's name. If you chose "Ava" the path to your
 - Fill out the security questions
 - In the "Choose privacy settings for your device" menu, uncheck every single option
 Windows will load for a minute and then show your desktop. Congratulations! We're in Windows 11
-
-### Another
