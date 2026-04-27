@@ -1,5 +1,5 @@
 # Hi!
-![Eris waving gif](.wave.gif)
+![Eris waving gif](/wave.gif)
 
 This is a guide on how to install and setup **Windows 11** on your new computer. I'm handwriting this guide for you because Windows is a bit of a problem-child and we'll need to take serious precautions to get the 'best' experience out of it.
 
