@@ -56,11 +56,15 @@ You will be met with a screen that says "Is this the right country or region?" a
 - Press *Shift* and *F10*
 - Click on the terminal window that just opened to *focus* it
 - Type `oobe\bypassnro` and then press *Enter*
+- 
 Windows will restart and load the same "Is this the right country or region?" menu; now you may continue.
+
 - Choose your region and keyboard layout(s)
 - When it says "Let's connect you to a network" screen, click "**I don't have internet**"
 - Enter your name
+
 This name will also be your computer's name. If you chose "Ava" the path to your videos folder will be `C:\Users\Ava\Videos`
+
 - Enter your password
 - Fill out the security questions
 - In the "Choose privacy settings for your device" menu, uncheck every single option
