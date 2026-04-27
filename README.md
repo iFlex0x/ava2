@@ -66,6 +66,4 @@ This name will also be your computer's name. If you chose "Ava" the path to your
 - In the "Choose privacy settings for your device" menu, uncheck every single option
 Windows will load for a minute and then show your desktop. Congratulations! We're in Windows 11
 
-### Windows 11 post-install tweaks
-
-This part is gonna be a bit messy
+(section about debloating tools wip)
