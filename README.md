@@ -23,7 +23,7 @@ To avoid this entirely we're just not going to log in with a Microsoft account. 
 - ***DO NOT SIGN IN WITH A MICROSOFT ACCOUNT***
 - ***DO NOT GIVE ANY PERSONAL INFORMATION OR DATA TO MICROSOFT***
 
-I've already patched a Windows 11 image using Win11 Creator and uploaded it for you. You can download it here: **[download link]**
+I've already patched a Windows 11 image using Win11 Creator and uploaded it for you. You can download it here: **Not Yet**
 
 This is a modified `.iso` file — it has OneDrive removed, telemetry disabled, bloatware stripped out, and it's set up to let you create a local account without Microsoft getting involved. You don't need to do any of the manual bypass tricks that older guides describe.
 
@@ -140,7 +140,3 @@ The AIO (the LINK TITAN 360) and all the fans; the six LL120s on intake, the LL1
 The LL120s and the LL140 all connect through the LINK hub inside the case so they show up together as one group in iCUE rather than individually. Should be pretty intuitive from there.
 
 ---
-
-**WD Dashboard (optional)**
-
-The SN850X doesn't need a driver, Windows handles it. But Western Digital has a free app called [WD Dashboard](https://support.wdc.com/downloads.aspx) that shows you drive health and temperature if you ever want to check. Worth having.
