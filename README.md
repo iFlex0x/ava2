@@ -11,7 +11,7 @@ Unlike MacOS, Windows is notorious for bloatware, ads, telemetry, and overall ju
 The biggest problem with Windows 11 is the mandatory use of a Microsoft account to log in. **We are not going to be doing this**, for a multitude of reasons. On Windows 11, there is a program that auto-backups files to the cloud; similar to MacOS' iCloud. 
 Which is nice to have, but the problem is that its the **default** storage. Any file you download will quietly back itself up and a couple weeks down the line you'll be pestered to "**upgrade your OneDrive storage**".
 
-To avoid this entirely we're just not going to log in with a Microsoft account. Normally this requires jumping through a bunch of hoops during setup — but I've already done the hard work for you. I used a tool called [Chris Titus's Win11 Creator](https://winutil.christitus.com/userguide/win11creator/) to patch a Windows 11 image that skips all of that nonsense automatically. Friends don't let friends use OneDrive <3
+To avoid this entirely we're just not going to log in with a Microsoft account. Normally this requires jumping through a bunch of hoops during setup — but we've already done the hard work for you. We used a tool called [Chris Titus's Win11 Creator](https://winutil.christitus.com/userguide/win11creator/) to patch a Windows 11 image that skips all of that nonsense automatically. Friends don't let friends use OneDrive <3
 
 **The install process I've organized into three chapters:**
 - 1. Flashing Windows 11 to USB drive
@@ -23,14 +23,14 @@ To avoid this entirely we're just not going to log in with a Microsoft account. 
 - ***DO NOT SIGN IN WITH A MICROSOFT ACCOUNT***
 - ***DO NOT GIVE ANY PERSONAL INFORMATION OR DATA TO MICROSOFT***
 
-I've already patched a Windows 11 image using Win11 Creator and uploaded it for you. You can download it here: **Not Yet**
+I've already patched a Windows 11 image using Win11 Creator and uploaded it for you. You can download it here: [drive.google.com/Win11_Modified_20260428.iso](https://drive.google.com/file/d/1e-8eAAd9rGLksEZx1ISV3YMRGyfRbkkr/view?usp=sharing) (*7.07 GB*)
 
 This is a modified `.iso` file — it has OneDrive removed, telemetry disabled, bloatware stripped out, and it's set up to let you create a local account without Microsoft getting involved. You don't need to do any of the manual bypass tricks that older guides describe.
 
 Alright cool, let's get started!
 
 ### 1. Flashing Windows 11 to USB drive
-- Download the patched Windows 11 image I linked above
+- Download the [patched Windows 11 image](https://drive.google.com/file/d/1e-8eAAd9rGLksEZx1ISV3YMRGyfRbkkr/view?usp=sharing) linked above
 - Download and install [WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter/releases/tag/v1.3)
 	- You may need to allow this program to run by going into "Privacy & Security" in your system settings. Scroll down to "Security" and click "Open Anyway"
 - Plug your USB drive into your Mac
@@ -67,9 +67,7 @@ This name will also be your computer's name. If you chose "Ava" the path to your
 - Fill out the security questions
 - In the "Choose privacy settings for your device" menu, **uncheck every single option**
 
-Windows will load for a minute and then show your desktop. Congratulations! We're in Windows 11
-
-(section about debloating tools wip)
+Windows will load for a minute and then show your desktop. Congratulations! We're in Windows 11!
 
 ### 4. Drivers and software
 
