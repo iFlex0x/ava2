@@ -23,7 +23,8 @@ To avoid this entirely we're just not going to log in with a Microsoft account. 
 - ***DO NOT SIGN IN WITH A MICROSOFT ACCOUNT***
 - ***DO NOT GIVE ANY PERSONAL INFORMATION OR DATA TO MICROSOFT***
 
-I've already patched a Windows 11 image using Win11 Creator and uploaded it for you. You can download it here: [drive.google.com/Win11_Modified_20260428.iso](https://drive.google.com/file/d/1e-8eAAd9rGLksEZx1ISV3YMRGyfRbkkr/view?usp=sharing) (*7.07 GB*)
+I've already patched a Windows 11 image using Win11 Creator and uploaded it for you. 
+You can download it here: [drive.google.com/Win11_Modified_20260428.iso](https://drive.google.com/file/d/1e-8eAAd9rGLksEZx1ISV3YMRGyfRbkkr/view?usp=sharing) (*7.07 GB*)
 
 This is a modified `.iso` file — it has OneDrive removed, telemetry disabled, bloatware stripped out, and it's set up to let you create a local account without Microsoft getting involved. You don't need to do any of the manual bypass tricks that older guides describe.
 
